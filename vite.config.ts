@@ -48,7 +48,13 @@ export default defineConfig({
       "preserveModules": true,
       "preserveModulesRoot": "src",
       "entryFileNames": "[name].js"
-    }
-  }
+    },
+    "external": [
+      "react",
+      "react-dom",
+      "react/jsx-runtime",
+    ]
+  },
+  cssCodeSplit: false,
 },
 })
