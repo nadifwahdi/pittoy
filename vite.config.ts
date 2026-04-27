@@ -33,23 +33,20 @@ export default defineConfig({
 
   // File types to support raw imports. Never add .css, .tsx, or .ts files to this.
   assetsInclude: ['**/*.svg', '**/*.csv'],
-  build: {
-  "lib": {
-    "entry": [
-      "./src/index.ts"
-    ],
-    "formats": [
-      "es"
-    ],
-    "cssFileName": "style"
+build: {
+  cssCodeSplit: false,  // ← tambahkan ini
+  lib: {
+    entry: ["./src/index.ts"],
+    formats: ["es"],
+    cssFileName: "style"
   },
   rollupOptions: {
-    external: ["react", "react-dom", "react/jsx-runtime"],
+    external: ["react", "react-dom", "react/jsx-runtime"],  // ← tambahkan ini juga
     output: {
       preserveModules: true,
       preserveModulesRoot: "src",
       entryFileNames: "[name].js"
     }
   }
-},
+}
 })
