@@ -43,18 +43,13 @@ export default defineConfig({
     ],
     "cssFileName": "style"
   },
-  "rollupOptions": {
-    "output": {
-      "preserveModules": true,
-      "preserveModulesRoot": "src",
-      "entryFileNames": "[name].js"
-    },
-    "external": [
-      "react",
-      "react-dom",
-      "react/jsx-runtime",
-    ]
-  },
-  cssCodeSplit: false,
+  rollupOptions: {
+    external: ["react", "react-dom", "react/jsx-runtime"],
+    output: {
+      preserveModules: true,
+      preserveModulesRoot: "src",
+      entryFileNames: "[name].js"
+    }
+  }
 },
 })
