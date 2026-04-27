@@ -1,0 +1,216 @@
+:root {
+  --blue\/blue-0: #EAEEFA;
+  --blue\/blue-1: #D9DFF6;
+  --blue\/blue-2: #BEC8F3;
+  --blue\/blue-3: #7D95E4;
+  --blue\/blue-4: #5C79DF;
+  --blue\/blue-5-✦: #3A5ED7;
+  --blue\/blue-6: #304EB2;
+  --blue\/blue-7: #1E2F6C;
+  --sky\/sky-0: #EFF7FB;
+  --sky\/sky-1: #C3E3F3;
+  --sky\/sky-2: #A5D5EB;
+  --sky\/sky-3: #88C7E4;
+  --sky\/sky-4: #6BB9DE;
+  --sky\/sky-5-✦: #4CAAD6;
+  --sky\/sky-6: #3F8EB2;
+  --sky\/sky-7: #27546C;
+}
+
+.title-title-48 {
+  font-family: "Quicksand";
+  font-style: "Bold";
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.2px;
+}
+
+.title-title-40 {
+  font-family: "Quicksand";
+  font-style: "Bold";
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: 0px;
+}
+
+.title-title-36 {
+  font-family: "Quicksand";
+  font-style: "Bold";
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.2px;
+}
+
+.title-title-32 {
+  font-family: "Quicksand";
+  font-style: "Bold";
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.2px;
+}
+
+.title-title-24 {
+  font-family: "Quicksand";
+  font-style: "Bold";
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.2px;
+}
+
+.title-title-20 {
+  font-family: "Quicksand";
+  font-style: "Bold";
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.2px;
+}
+
+.title-title-16 {
+  font-family: "Quicksand";
+  font-style: "Bold";
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.2px;
+}
+
+.title-title-14 {
+  font-family: "Quicksand";
+  font-style: "Bold";
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.2px;
+}
+
+.ui-text-ui-bold-16 {
+  font-family: "Quicksand";
+  font-style: "Bold";
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.2px;
+}
+
+.body-paragraph-24 {
+  font-family: "Quicksand";
+  font-style: "Regular";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 1.399999976158142;
+  letter-spacing: 0px;
+}
+
+.body-paragraph-16 {
+  font-family: "Quicksand";
+  font-style: "Regular";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.399999976158142;
+  letter-spacing: 0px;
+}
+
+.body-paragraph-14 {
+  font-family: "Quicksand";
+  font-style: "Regular";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.399999976158142;
+  letter-spacing: 0px;
+}
+
+.body-paragraph-12 {
+  font-family: "Quicksand";
+  font-style: "Regular";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 1.399999976158142;
+  letter-spacing: 0px;
+}
+
+.body-paragraph-10 {
+  font-family: "Quicksand";
+  font-style: "Regular";
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 1.399999976158142;
+  letter-spacing: 0px;
+}
+
+.ui-text-ui-semi-16 {
+  font-family: "Quicksand";
+  font-style: "SemiBold";
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: 0.2px;
+}
+
+.ui-text-ui-light-16 {
+  font-family: "Quicksand";
+  font-style: "Regular";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.2px;
+}
+
+.ui-text-ui-bold-14 {
+  font-family: "Quicksand";
+  font-style: "Bold";
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.2px;
+}
+
+.ui-text-ui-semi-14 {
+  font-family: "Quicksand";
+  font-style: "SemiBold";
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: 0.2px;
+}
+
+.ui-text-ui-light-14 {
+  font-family: "Quicksand";
+  font-style: "Regular";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.2px;
+}
+
+.ui-text-ui-bold-12 {
+  font-family: "Quicksand";
+  font-style: "Bold";
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: 0.2px;
+}
+
+.ui-text-ui-semi-12 {
+  font-family: "Quicksand";
+  font-style: "SemiBold";
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: 0.2px;
+}
+
+.ui-text-ui-light-12 {
+  font-family: "Quicksand";
+  font-style: "Regular";
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.2px;
+}
+

@@ -1,0 +1,42 @@
+15:11:41.285 Running build in Washington, D.C., USA (East) – iad1
+15:11:41.286 Build machine configuration: 2 cores, 8 GB
+15:11:41.398 Cloning github.com/farhankarel/pittoy-prototype (Branch: main, Commit: 159988a)
+15:11:41.399 Previous build caches not available.
+15:11:41.923 Cloning completed: 525.000ms
+15:11:42.209 Running "vercel build"
+15:11:43.113 Vercel CLI 51.6.1
+15:11:43.694 Running "install" command: `pnpm install`...
+15:11:44.343 (node:46) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+15:11:44.349 (Use `node --trace-deprecation ...` to show where the warning was created)
+15:11:44.375  WARN  GET https://registry.npmjs.org/@tailwindcss%2Fvite error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+15:11:44.376  WARN  GET https://registry.npmjs.org/@vitejs%2Fplugin-react error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+15:11:44.376  WARN  GET https://registry.npmjs.org/tailwindcss error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+15:11:44.377  WARN  GET https://registry.npmjs.org/vite error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+15:11:44.378  WARN  GET https://registry.npmjs.org/@emotion%2Freact error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+15:11:44.379  WARN  GET https://registry.npmjs.org/@emotion%2Fstyled error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+15:11:44.379  WARN  GET https://registry.npmjs.org/@mui%2Ficons-material error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+15:11:44.380  WARN  GET https://registry.npmjs.org/@mui%2Fmaterial error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+15:11:44.381  WARN  GET https://registry.npmjs.org/@popperjs%2Fcore error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+15:11:44.381  WARN  GET https://registry.npmjs.org/@radix-ui%2Freact-accordion error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+15:11:44.382  WARN  GET https://registry.npmjs.org/@radix-ui%2Freact-alert-dialog error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+15:11:44.383  WARN  GET https://registry.npmjs.org/@radix-ui%2Freact-aspect-ratio error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+15:11:44.383  WARN  GET https://registry.npmjs.org/@radix-ui%2Freact-avatar error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+15:11:44.383  WARN  GET https://registry.npmjs.org/@radix-ui%2Freact-checkbox error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+15:11:44.384  WARN  GET https://registry.npmjs.org/@radix-ui%2Freact-collapsible error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+15:11:44.385  WARN  GET https://registry.npmjs.org/@radix-ui%2Freact-context-menu error (ERR_INVALID_THIS). Will retry in 10 seconds. 2 retries left.
+15:11:54.377  WARN  GET https://registry.npmjs.org/@tailwindcss%2Fvite error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+15:11:54.378  WARN  GET https://registry.npmjs.org/@vitejs%2Fplugin-react error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+15:11:54.378  WARN  GET https://registry.npmjs.org/tailwindcss error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+15:11:54.378  WARN  GET https://registry.npmjs.org/vite error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+15:11:54.380  WARN  GET https://registry.npmjs.org/@emotion%2Freact error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+15:11:54.380  WARN  GET https://registry.npmjs.org/@emotion%2Fstyled error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+15:11:54.380  WARN  GET https://registry.npmjs.org/@mui%2Ficons-material error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+15:11:54.381  WARN  GET https://registry.npmjs.org/@mui%2Fmaterial error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+15:11:54.382  WARN  GET https://registry.npmjs.org/@popperjs%2Fcore error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+15:11:54.382  WARN  GET https://registry.npmjs.org/@radix-ui%2Freact-accordion error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+15:11:54.383  WARN  GET https://registry.npmjs.org/@radix-ui%2Freact-alert-dialog error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+15:11:54.384  WARN  GET https://registry.npmjs.org/@radix-ui%2Freact-aspect-ratio error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+15:11:54.384  WARN  GET https://registry.npmjs.org/@radix-ui%2Freact-avatar error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+15:11:54.385  WARN  GET https://registry.npmjs.org/@radix-ui%2Freact-checkbox error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+15:11:54.387  WARN  GET https://registry.npmjs.org/@radix-ui%2Freact-collapsible error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
+15:11:54.387  WARN  GET https://registry.npmjs.org/@radix-ui%2Freact-context-menu error (ERR_INVALID_THIS). Will retry in 1 minute. 1 retries left.
